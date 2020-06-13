@@ -10,7 +10,7 @@
                     <p>2018-11-30上映</p>
                 </div>
                 <div class="btn_pre">
-                    预售
+                    购票
                 </div>
             </li>
         </ul>
